@@ -10,7 +10,7 @@ https://shiny.bioinformatics.unibe.ch/apps/tasmania/
 <br>
 
 
-![TASmania web interface.](tasmaniaWeb.png)
+![](img/tasmaniaWeb.png)
 
 
 # How to cite:
